@@ -28,7 +28,8 @@ To write a Python program to get the employee and doctor details and display the
 
 ### PROGRAM
 ```
-# hierarchical inheritance
+# Reg.No: 212223060220
+# Name: Rakshitha M
 
 class Details:
     def __init__(self):
